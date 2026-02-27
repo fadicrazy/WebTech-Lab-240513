@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Lab Task</title>
+</head>
+<body>
+
+    <h1>Your Name</h1>
+    <p><strong>Roll No:</strong> Your Roll Number</p>
+    <p><strong>Program/Semester:</strong> BSCS - 5th Semester</p>
+
+    <h2>Introduction</h2>
+    <p>
+        I am a student of BSCS. 
+        I am passionate about web development and programming.
+        I enjoy learning new technologies.
+        I am currently studying frontend and backend development.
+        My goal is to become a professional software engineer.
+    </p>
+
+</body>
+</html>
